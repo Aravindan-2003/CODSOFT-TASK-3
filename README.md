@@ -1,4 +1,4 @@
-# IRIS FLOWER DETECTION
+# IRIS FLOWER CLASSIFICATION
 
 The Iris Flower Detection Project is a classic machine learning task that involves the classification of iris flowers into different species based on their features. Here's a summary of the project:
 
